@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **wethinkandwork407@gmail.com**
 
-- ⚡ Fun fact **aaa**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
