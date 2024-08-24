@@ -5,10 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashigovincent01&label=Profile%20views&color=0e75b6&style=flat" alt="mashigovincent01" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web development from The Ordin Project.**
+- 🌱I'm also learning  **Software Engineering from PLP acadermy.**
 
 - 💬 Ask me about **HTML, CSS, JS, C#, C++, Python, Java**
 
 - 📫 How to reach me **wethinkandwork407@gmail.com**
+- Check my youtube channel ** <a href="https://youtube.com/@wethinkandwork?si=Y66IorH2RX8UsGZA" target="blank"></a> **
 
 
 
