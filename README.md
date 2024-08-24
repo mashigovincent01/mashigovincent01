@@ -10,7 +10,7 @@
 - 💬 Ask me about **HTML, CSS, JS, C#, C++, Python, Java**
 
 - 📫 How to reach me **wethinkandwork407@gmail.com**
-- Check my youtube channel ** <a href="https://youtube.com/@wethinkandwork?si=Y66IorH2RX8UsGZA" target="blank">wethinkandwork</a> **
+- Check my youtube channel **<a href="https://youtube.com/@wethinkandwork?si=Y66IorH2RX8UsGZA" target="blank">wethinkandwork</a>**
 
 
 
