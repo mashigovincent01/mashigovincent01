@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent Mashigo</h1>
-<h3 align="center">A passionate full-stack developer from South Africa</h3>
+<h3 align="center">A passionate Full-Stack Engineer from South Africa</h3>
 <!-- <img alt="My Profile picture src="myImage.jpg"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mashigovincent01&label=Profile%20views&color=0e75b6&style=flat" alt="mashigovincent01" /> </p>
